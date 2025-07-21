@@ -1,2 +1,3 @@
-# oracle-lock-system_v2
-oracle-lock-system_v2
+# Oracle File Lock Lambda
+
+This project uploads files to S3 and manages locks in DynamoDB.
